@@ -1,2 +1,2 @@
 # demo
-create a description . 
+create a description for the application .
